@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "My personal portfolio.",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "basanta": "index.js"
   },
@@ -12,5 +13,9 @@
     "Basanta Rai"
   ],
   "author": "Basanta Rai <iambasantarai@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "picocolors": "^1.1.1"
+  }
 }
