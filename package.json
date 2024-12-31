@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "My personal portfolio.",
   "main": "index.js",
+  "bin": {
+    "basanta": "index.js"
+  },
   "keywords": [
     "basanta",
     "iambasantarai",
     "Basanta Rai"
   ],
-  "author": "iambasantarai",
+  "author": "Basanta Rai <iambasantarai@gmail.com>",
   "license": "MIT"
 }
