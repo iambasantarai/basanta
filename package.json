@@ -1,0 +1,13 @@
+{
+  "name": "basanta",
+  "version": "1.0.0",
+  "description": "My personal portfolio.",
+  "main": "index.js",
+  "keywords": [
+    "basanta",
+    "iambasantarai",
+    "Basanta Rai"
+  ],
+  "author": "iambasantarai",
+  "license": "MIT"
+}
